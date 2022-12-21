@@ -1,5 +1,5 @@
 # Miscellaneous
-*.android\app\google-services.json
+*.json
 *.class
 *.log
 *.pyc
